@@ -24,5 +24,9 @@ namespace SQLiteORM
             throw new NotImplementedException();
         }
 
+        public static SQLQuery ExecuteCMD(string cmd)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
