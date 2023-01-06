@@ -1,6 +1,6 @@
 ﻿namespace SQLiteORM
 {
-    public class SQLQueary
+    public class SQLQuery
     {
     }
 }
