@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteORM", "SQLiteORM\SQLiteORM.csproj", "{FF8A162C-DB49-4066-876C-3E4BDA6814D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8A162C-DB49-4066-876C-3E4BDA6814D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8A162C-DB49-4066-876C-3E4BDA6814D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8A162C-DB49-4066-876C-3E4BDA6814D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8A162C-DB49-4066-876C-3E4BDA6814D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B087DDF-0022-4F37-BBC0-2D060500F6EC}
+	EndGlobalSection
+EndGlobal
